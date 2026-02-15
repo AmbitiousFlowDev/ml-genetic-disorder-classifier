@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/7d294e5daaab4269bfc71c2dc8636076/artifacts
+end_time: 1771163764012
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: 7d294e5daaab4269bfc71c2dc8636076
+run_name: kindly-lark-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771163763246
+status: 3
+tags: []
+user_id: Sikrox

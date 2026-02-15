@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/945a5ac1dc674406875381f757c4619e/artifacts
+end_time: 1771160783764
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: 945a5ac1dc674406875381f757c4619e
+run_name: Neural_Network
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771160766937
+status: 4
+tags: []
+user_id: Sikrox

@@ -1,0 +1,39 @@
+digest: f01b63d0
+name: dataset
+profile: '{"num_rows": 6869, "num_elements": 267891}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Patient Age", "required":
+  false}, {"type": "string", "name": "Genes in mother''s side", "required": true},
+  {"type": "string", "name": "Inherited from father", "required": false}, {"type":
+  "string", "name": "Maternal gene", "required": false}, {"type": "string", "name":
+  "Paternal gene", "required": true}, {"type": "double", "name": "Blood cell count
+  (mcL)", "required": true}, {"type": "double", "name": "Mother''s age", "required":
+  false}, {"type": "double", "name": "Father''s age", "required": false}, {"type":
+  "string", "name": "Institute Name", "required": false}, {"type": "string", "name":
+  "Location of Institute", "required": true}, {"type": "string", "name": "Status",
+  "required": true}, {"type": "string", "name": "Respiratory Rate (breaths/min)",
+  "required": false}, {"type": "string", "name": "Heart Rate (rates/min", "required":
+  false}, {"type": "double", "name": "Test 1", "required": false}, {"type": "double",
+  "name": "Test 2", "required": false}, {"type": "double", "name": "Test 3", "required":
+  false}, {"type": "double", "name": "Test 4", "required": false}, {"type": "double",
+  "name": "Test 5", "required": false}, {"type": "string", "name": "Parental consent",
+  "required": false}, {"type": "string", "name": "Follow-up", "required": false},
+  {"type": "string", "name": "Gender", "required": false}, {"type": "string", "name":
+  "Birth asphyxia", "required": false}, {"type": "string", "name": "Autopsy shows
+  birth defect (if applicable)", "required": false}, {"type": "string", "name": "Place
+  of birth", "required": false}, {"type": "string", "name": "Folic acid details (peri-conceptional)",
+  "required": false}, {"type": "string", "name": "H/O serious maternal illness", "required":
+  false}, {"type": "string", "name": "H/O radiation exposure (x-ray)", "required":
+  false}, {"type": "string", "name": "H/O substance abuse", "required": false}, {"type":
+  "string", "name": "Assisted conception IVF/ART", "required": false}, {"type": "string",
+  "name": "History of anomalies in previous pregnancies", "required": false}, {"type":
+  "double", "name": "No. of previous abortion", "required": false}, {"type": "string",
+  "name": "Birth defects", "required": false}, {"type": "double", "name": "White Blood
+  cell count (thousand per microliter)", "required": false}, {"type": "string", "name":
+  "Blood test result", "required": false}, {"type": "double", "name": "Symptom 1",
+  "required": false}, {"type": "double", "name": "Symptom 2", "required": false},
+  {"type": "double", "name": "Symptom 3", "required": false}, {"type": "double", "name":
+  "Symptom 4", "required": false}, {"type": "double", "name": "Symptom 5", "required":
+  false}]}'
+source: '{"tags": {"mlflow.user": "Sikrox", "mlflow.source.name": "Genetic Disorder
+  Classifier.ipynb", "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

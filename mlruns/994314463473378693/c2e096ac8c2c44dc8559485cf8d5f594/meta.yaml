@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/c2e096ac8c2c44dc8559485cf8d5f594/artifacts
+end_time: 1771163764917
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: c2e096ac8c2c44dc8559485cf8d5f594
+run_name: tasteful-auk-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771163764343
+status: 3
+tags: []
+user_id: Sikrox

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/a1d9beaf5b78473ab7432f3a4cf35862/artifacts
+end_time: 1771163764337
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: a1d9beaf5b78473ab7432f3a4cf35862
+run_name: wistful-pig-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771163764104
+status: 3
+tags: []
+user_id: Sikrox

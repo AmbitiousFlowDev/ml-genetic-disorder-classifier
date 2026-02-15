@@ -1,0 +1,9 @@
+digest: 01c4778f
+name: dataset
+profile: '{"features_shape": [1718, 40], "features_size": 68720, "features_nbytes":
+  549760}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 40]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Sikrox", "mlflow.source.name": "Genetic Disorder
+  Classifier.ipynb", "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

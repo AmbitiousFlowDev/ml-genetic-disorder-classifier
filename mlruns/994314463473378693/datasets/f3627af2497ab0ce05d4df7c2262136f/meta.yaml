@@ -1,0 +1,10 @@
+digest: 85b91146
+name: dataset
+profile: '{"features_shape": [15536, 44], "features_size": 683584, "features_nbytes":
+  5468672, "targets_shape": [15536], "targets_size": 15536, "targets_nbytes": 124288}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 44]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Sikrox", "mlflow.source.name": "Genetic Disorder
+  Classifier.ipynb", "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

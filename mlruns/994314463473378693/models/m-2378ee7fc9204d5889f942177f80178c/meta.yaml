@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/models/m-2378ee7fc9204d5889f942177f80178c/artifacts
+creation_timestamp: 1771160886964
+experiment_id: '994314463473378693'
+last_updated_timestamp: 1771160891562
+model_id: m-2378ee7fc9204d5889f942177f80178c
+model_type: null
+name: model
+source_run_id: c81d1225f9e74f22bb71e037efbfa019
+status: 2
+status_message: null

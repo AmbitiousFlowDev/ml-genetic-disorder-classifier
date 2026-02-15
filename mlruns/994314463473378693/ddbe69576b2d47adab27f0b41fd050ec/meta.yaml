@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/ddbe69576b2d47adab27f0b41fd050ec/artifacts
+end_time: 1771160231396
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: ddbe69576b2d47adab27f0b41fd050ec
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771160219561
+status: 3
+tags: []
+user_id: Sikrox

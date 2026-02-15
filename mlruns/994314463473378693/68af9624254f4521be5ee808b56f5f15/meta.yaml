@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/68af9624254f4521be5ee808b56f5f15/artifacts
+end_time: 1771163768654
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: 68af9624254f4521be5ee808b56f5f15
+run_name: enthused-hare-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771163764962
+status: 3
+tags: []
+user_id: Sikrox
