@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/a5e17442e8dd4c41817cc8e0e673ffaa/artifacts
+end_time: 1771169755442
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: a5e17442e8dd4c41817cc8e0e673ffaa
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771169747659
+status: 3
+tags: []
+user_id: Sikrox

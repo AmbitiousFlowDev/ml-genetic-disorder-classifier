@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/94eb2d9fe3a34bb7a856c67838239f2f/artifacts
+end_time: 1771169733065
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: 94eb2d9fe3a34bb7a856c67838239f2f
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771169708665
+status: 3
+tags: []
+user_id: Sikrox

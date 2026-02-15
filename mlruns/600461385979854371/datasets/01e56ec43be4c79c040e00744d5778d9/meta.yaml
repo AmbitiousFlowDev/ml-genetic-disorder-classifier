@@ -1,0 +1,19 @@
+digest: 893a8e91
+name: dataset
+profile: '{"num_rows": 8587, "num_elements": 137392}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Patient Age", "required":
+  false}, {"type": "double", "name": "Blood cell count (mcL)", "required": true},
+  {"type": "double", "name": "Mother''s age", "required": false}, {"type": "double",
+  "name": "Father''s age", "required": false}, {"type": "double", "name": "Test 1",
+  "required": false}, {"type": "double", "name": "Test 2", "required": false}, {"type":
+  "double", "name": "Test 3", "required": false}, {"type": "double", "name": "Test
+  4", "required": false}, {"type": "double", "name": "Test 5", "required": false},
+  {"type": "double", "name": "No. of previous abortion", "required": false}, {"type":
+  "double", "name": "White Blood cell count (thousand per microliter)", "required":
+  false}, {"type": "double", "name": "Symptom 1", "required": false}, {"type": "double",
+  "name": "Symptom 2", "required": false}, {"type": "double", "name": "Symptom 3",
+  "required": false}, {"type": "double", "name": "Symptom 4", "required": false},
+  {"type": "double", "name": "Symptom 5", "required": false}]}'
+source: '{"tags": {"mlflow.user": "Sikrox", "mlflow.source.name": "Genetic Disorder
+  Classifier.ipynb", "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

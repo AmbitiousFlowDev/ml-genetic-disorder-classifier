@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/Genetic Disorder Classifier/mlruns/994314463473378693/e743c12e2be24219bc7e7fa92c65e212/artifacts
+end_time: 1771169849488
+entry_point_name: ''
+experiment_id: '994314463473378693'
+lifecycle_stage: active
+run_id: e743c12e2be24219bc7e7fa92c65e212
+run_name: enthused-yak-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771169837950
+status: 3
+tags: []
+user_id: Sikrox
